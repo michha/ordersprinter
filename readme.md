@@ -1,3 +1,11 @@
+# Speicherkarte vorbereiten
+* https://www.raspberrypi.org/downloads/noobs/
+* _Noobs Lite_ herunterladen, auf (formatierte) Speicherkarte entpacken
+
+# Raspbian Installation
+* starten
+* Raspbian auswählen (nicht Full)
+
 # Raspbian Konfiguration
 ## nach der Basis-Installation
 - VNC Interface aktivieren (Settings => Raspberry-Pi-Configuration => Interfaces: VNC)
